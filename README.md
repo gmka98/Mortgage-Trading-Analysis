@@ -1,4 +1,5 @@
 # 💼 Power BI Case Study – Mortgage Trading Analysis
+![trade images](trade.jpg))
 
 ## 🧠 Context
 
